@@ -1,4 +1,4 @@
-# C-Console-Project-Exception-Handling
+# CSharp-Console-Project-Exception-Handling
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates exception handling and safe user input validation using `TryParse()` and `try-catch` in a calculator program.
